@@ -1,0 +1,18 @@
+.logo {
+    position: absolute;
+    right: 0;
+    top: 12rem;
+}
+
+.logo img {
+    width: 20vw;
+}
+
+.logo-small {
+    width: 100%;
+    margin-top: 1rem;
+}
+
+.logo-small img {
+    height: 40px;
+}
